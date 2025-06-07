@@ -12,3 +12,8 @@ High Resolution: Vector annotations based on high-resolution satellite imagery.
 Multiple Classes: Rich semantic categories including urban areas, water bodies, forests, farmland, roads, buildings, and more.
 
 Vector Format: Provided as GIS-ready shapefiles (Shapefile/GeoJSON), enabling easy integration into spatial analysis pipelines.
+
+🔗 Download
+You can download the IRSAMAP dataset via Baidu Netdisk:
+
+Baidu Netdisk Link: Coming Soon！！！

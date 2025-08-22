@@ -1,8 +1,4 @@
-Based on the description you provided, here's the updated GitHub page introduction incorporating the new citation and the image:
-
----
-
-# IRSAMAP: A Large-Scale, High-Resolution, Multi-Class Vector Map Dataset for Remote Sensing
+# IRSAMAP: Towards Large-Scale, High-Resolution Land Cover Map Vectorization
 
 **IRSAMAP** is the world's first remote sensing dataset specifically designed for **large-scale**, **high-resolution**, and **multi-category** land cover vector mapping. It aims to support research in geospatial artificial intelligence, semantic segmentation, vector map extraction, and automated cartography from remote sensing imagery.
 
@@ -43,7 +39,5 @@ If you use the IRSAMap dataset in your work, please cite the following article:
 You can download the IRSAMAP dataset via Baidu Netdisk:
 
 **Baidu Netdisk Link**: *Coming Soon!*
-
----
 
 

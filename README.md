@@ -13,7 +13,7 @@ IRSAMAP bridges the gap between raster-based land cover data and vector-based ma
 
 ## 🖼 Overview of the IRSAMap Dataset
 
-![IRSAMap Overview](path_to_image)
+![IRSAMap Overview](https://github.com/ucas-dlg/IRSAMap/blob/main/irsamap_overview.png)
 *Overview of the IRSAMap dataset. The top left shows the dataset's annotation process. The central section displays the annotated classes of the IRSAMap dataset. The regional distribution map (top right) highlights the global coverage of IRSAMap imagery. The bottom left compares traditional raster datasets, which only support semantic segmentation tasks, with IRSAMap, which supports multi-class tasks.*
 
 ## 📄 Citation

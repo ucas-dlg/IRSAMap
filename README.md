@@ -36,8 +36,10 @@ If you use the IRSAMap dataset in your work, please cite the following article:
 
 ## 🔗 Download
 
-You can download the IRSAMAP dataset via Baidu Netdisk:
+You can download the IRSAMAP dataset via the following links:
 
-[**Download IRSAMAP Dataset**](https://pan.baidu.com/s/1M1Gjjihvtg8yu_MNaIR4Rg?pwd=n3ia)
+- [**Download IRSAMAP Dataset from Google Drive**](https://drive.google.com/file/d/1Qkp0f7LwJz9rOHHiqIZWdgK1k38ZeVw4/view?usp=drive_link)
+- [**Download IRSAMAP Dataset from Baidu Netdisk**](https://pan.baidu.com/s/1M1Gjjihvtg8yu_MNaIR4Rg?pwd=n3ia)
+
 
 

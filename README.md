@@ -38,6 +38,6 @@ If you use the IRSAMap dataset in your work, please cite the following article:
 
 You can download the IRSAMAP dataset via Baidu Netdisk:
 
-**Baidu Netdisk Link**: *Coming Soon!*
+[**Download IRSAMAP Dataset**](https://pan.baidu.com/s/1M1Gjjihvtg8yu_MNaIR4Rg?pwd=n3ia)
 
 

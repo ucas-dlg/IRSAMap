@@ -1,8 +1,8 @@
-# IRSAMAP: Towards Large-Scale, High-Resolution Land Cover Map Vectorization
+# IRSAMap: Towards Large-Scale, High-Resolution Land Cover Map Vectorization
 
-**IRSAMAP** is the world's first remote sensing dataset specifically designed for **large-scale**, **high-resolution**, and **multi-category** land cover vector mapping. It aims to support research in geospatial artificial intelligence, semantic segmentation, vector map extraction, and automated cartography from remote sensing imagery.
+**IRSAMap** is the world's first remote sensing dataset specifically designed for **large-scale**, **high-resolution**, and **multi-category** land cover vector mapping. It aims to support research in geospatial artificial intelligence, semantic segmentation, vector map extraction, and automated cartography from remote sensing imagery.
 
-IRSAMAP bridges the gap between raster-based land cover data and vector-based mapping needs by providing precisely labeled, vectorized land cover features across diverse geographical regions. Each instance is annotated with fine-grained geometry and semantic class information.
+IRSAMap bridges the gap between raster-based land cover data and vector-based mapping needs by providing precisely labeled, vectorized land cover features across diverse geographical regions. Each instance is annotated with fine-grained geometry and semantic class information.
 
 ## 🌍 Key Features
 
@@ -36,10 +36,10 @@ If you use the IRSAMap dataset in your work, please cite the following article:
 
 ## 🔗 Download
 
-You can download the IRSAMAP dataset via the following links:
+You can download the  dataset via the following links:
 
-- [**Download IRSAMAP Dataset from Google Drive**](https://drive.google.com/file/d/1Qkp0f7LwJz9rOHHiqIZWdgK1k38ZeVw4/view?usp=drive_link)
-- [**Download IRSAMAP Dataset from Baidu Netdisk**](https://pan.baidu.com/s/1M1Gjjihvtg8yu_MNaIR4Rg?pwd=n3ia)
+- [**Download IRSAMap Dataset from Google Drive**](https://drive.google.com/file/d/1Qkp0f7LwJz9rOHHiqIZWdgK1k38ZeVw4/view?usp=drive_link)
+- [**Download IRSAMap Dataset from Baidu Netdisk**](https://pan.baidu.com/s/1M1Gjjihvtg8yu_MNaIR4Rg?pwd=n3ia)
 
 
 

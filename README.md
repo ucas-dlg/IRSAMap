@@ -24,14 +24,14 @@ If you use the IRSAMap dataset in your work, please cite the following article:
 @ARTICLE{11129926,
   author={Meng, Yu and Deng, Ligao and Xi, Zhihao and Chen, Jiansheng and Chen, Jingbo and Yue, Anzhi and Liu, Diyou and Li, Kai and Wang, Chenhao and Li, Kaiyu and Deng, Yupeng and Sun, Xian},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={IRSAMap: Towards Large-Scale, High-Resolution Land Cover Map Vectorization}, 
+  title={IRSAMap: Toward Large-Scale, High-Resolution Land Cover Map Vectorization}, 
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Land surface; Annotations; Roads; Feature extraction; Vectors; Buildings; Remote sensing; Training; Accuracy; Semantic segmentation; Deep Learning; High-Resolution Remote Sensing; Land Cover; Vector Mapping; Object-Based Modeling},
-  doi={10.1109/TGRS.2025.3600249}
-}
+  pages={1-19},
+  keywords={Land surface;Annotations;Roads;Feature extraction;Vectors;Buildings;Remote sensing;Training;Accuracy;Semantic segmentation;Deep learning;high-resolution remote sensing;land cover;object-based modeling;vector mapping},
+  doi={10.1109/TGRS.2025.3600249}}
+
 ```
 
 ## 🔗 Download

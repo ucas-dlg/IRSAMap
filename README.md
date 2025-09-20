@@ -3,7 +3,8 @@
 **IRSAMap** is the world's first remote sensing dataset specifically designed for **large-scale**, **high-resolution**, and **multi-category** land cover vector mapping. It aims to support research in geospatial artificial intelligence, semantic segmentation, vector map extraction, and automated cartography from remote sensing imagery.
 
 IRSAMap bridges the gap between raster-based land cover data and vector-based mapping needs by providing precisely labeled, vectorized land cover features across diverse geographical regions. Each instance is annotated with fine-grained geometry and semantic class information.
-
+### New
+[2025/09/21] The GeoJSON for land categories in IRSAMap has been updated.
 ## 🌍 Key Features
 
 * **Global Coverage**: Diverse regions from multiple continents.

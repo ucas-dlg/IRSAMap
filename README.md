@@ -39,7 +39,7 @@ If you use the IRSAMap dataset in your work, please cite the following article:
 
 You can download the  dataset via the following links:
 
-- [**Download IRSAMap Dataset from here**](https://data.casearth.cn/dataset/68d9f8879418b437b225aed8)
+- [**Download IRSAMap Dataset from here**](https://www.scidb.cn/detail?dataSetId=8bd48587da7e476a8ba3bc809321a7af&version=V1)
 
 
 

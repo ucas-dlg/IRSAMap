@@ -39,8 +39,7 @@ If you use the IRSAMap dataset in your work, please cite the following article:
 
 You can download the  dataset via the following links:
 
-- [**Download IRSAMap Dataset from Google Drive**](https://drive.google.com/drive/folders/1M-YKPVUMgxyoiPfM2pbeRJZlVdr3Udia?usp=sharing)
-- [**Download IRSAMap Dataset from Baidu Netdisk**](https://pan.baidu.com/s/1jEJOUhDKUuzR60R0txRySA?pwd=my8i)
+- [**Download IRSAMap Dataset from here**](https://data.casearth.cn/dataset/68d9f8879418b437b225aed8)
 
 
 
